@@ -2,7 +2,7 @@ source :rubygems
 
 # PostgreSQL driver
 gem 'pg'
-
+gem 'pry'
 # Sinatra driver
 gem 'sinatra'
 gem 'shotgun'
@@ -19,3 +19,4 @@ group :test do
   gem 'faker'
   gem 'rspec'
 end
+

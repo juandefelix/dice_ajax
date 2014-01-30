@@ -20,6 +20,7 @@ a#roll {
 }
 
 #die {
+  border-radius: 5px;
   height: 85px;
   margin-top: 20px;
 }
